@@ -1,7 +1,9 @@
 # 💫 About Me:
-# 👋 Hi there, I’m a Data Scientist & AI Engineer
+# 👋 Hi there, I’m Mohd Abdul Wasay
 
-I’m a **Computer Science graduate (B.Tech CSE)** with a strong focus on **Data Science, Analytics, and Artificial Intelligence**. I specialize in building **end-to-end intelligent applications**—starting from raw data processing with **SQL, Statistics, and Python**, and evolving into **machine learning systems and autonomous AI agents** using modern LLM frameworks.
+I'm a **Data Scientist** with a passion for uncovering insights from complex datasets, solving intricate problems, and driving impactful decisions through **data-driven analysis and cutting-edge AI solutions**.
+
+With strong expertise in **Machine Learning, Deep Learning, and Generative AI**, I focus on transforming raw data into **actionable insights** that help businesses make smarter, faster decisions.
 
 I enjoy working across the full data stack and turning complex data and AI problems into **scalable, real-world solutions**.
 
